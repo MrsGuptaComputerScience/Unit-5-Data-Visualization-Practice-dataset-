@@ -1,0 +1,7 @@
+Answer at least  the following questions - AND add at least 4 questions of your own.
+make a line plot displaying the TMax over the 12 months. 
+make a line plot displaying both the TMax and TMin over the 12 months in the same axis.
+make a horizontal bar plot displaying the Rainfall over the 12 months. 
+make a  bar plot displaying both the TMax and TMin over the 12 months in the same axis
+make a scatter plot showing the relatioship between rain and sunshine over the months.
+Make a pie chart proportion of the annual sunshine  in each month.set Legend = False in the parameter - if it is blocking your graph. 
